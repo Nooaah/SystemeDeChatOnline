@@ -35,12 +35,7 @@ if (isset($_GET['submit']))
   }
 }
 
-
-
 ?>
-
-
-
 
 <!DOCTYPE html>
 <html lang="fr">
@@ -75,9 +70,6 @@ if (isset($_GET['submit']))
 <body>
 
 <!-- DEBUT DU PROJET-->
-
-
-
 
 
 <!--Navbar-->
@@ -119,7 +111,6 @@ if (isset($_GET['submit']))
   
   </nav>
   <!--/.Navbar-->
-
 
 
   <div id="form_connexion">
@@ -167,21 +158,14 @@ if (isset($error))
 
 }
 ?>
-
-    
     
     </form>
     </center>
     <!-- Default form login -->
       </div>
     
-    
-
-
-
 
     <!-- Default form subscription -->
-
 
 <!-- /FIN DU PROJET-->
 
