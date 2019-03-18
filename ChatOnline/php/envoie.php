@@ -12,7 +12,3 @@ if (!empty($_GET['message']))
 
 
 ?>
-
-    
-
-//alert('<?= $_SESSION['id']; ?>');
